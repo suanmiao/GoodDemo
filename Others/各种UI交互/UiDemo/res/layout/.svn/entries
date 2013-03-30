@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="65"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/res/layout"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="64"
+   kind="dir"
+   committed-date="2012-10-26T02:20:47.289839Z"/>
+<entry
+   name="admo.xml"
+   checksum="a16af4776b6d5b62fc1f026bdb9fde7d"
+   last-author="huangsanm@gmail.com"
+   committed-rev="34"
+   text-time="2012-07-24T02:34:58.554000Z"
+   kind="file"
+   committed-date="2012-07-24T02:34:58.554769Z"/>
+<entry
+   name="adview_layout.xml"
+   checksum="ecbb5d2fccba1653b4846572cc0996b2"
+   last-author="huangsanm@gmail.com"
+   committed-rev="22"
+   text-time="2012-07-09T06:54:43.917000Z"
+   kind="file"
+   committed-date="2012-07-09T06:54:43.917257Z"/>
+<entry
+   name="alpha.xml"
+   checksum="2f9d0b1e9b07bda57fe271346fa819c8"
+   last-author="huangsanm@gmail.com"
+   committed-rev="53"
+   text-time="2012-09-21T06:19:10.023000Z"
+   kind="file"
+   committed-date="2012-09-21T06:19:10.023216Z"/>
+<entry
+   name="app_item.xml"
+   checksum="6a2010f2df302d79565067037dd024a5"
+   last-author="huangsanm@gmail.com"
+   committed-rev="54"
+   text-time="2012-09-21T06:27:17.997000Z"
+   kind="file"
+   committed-date="2012-09-21T06:27:17.997354Z"/>
+<entry
+   name="app_list.xml"
+   checksum="73cfaaa91ca1019665f1ec7361c8ef5a"
+   last-author="huangsanm@gmail.com"
+   committed-rev="53"
+   text-time="2012-09-21T06:19:10.023000Z"
+   kind="file"
+   committed-date="2012-09-21T06:19:10.023216Z"/>
+<entry
+   name="app_tab_layout.xml"
+   revision="68"
+   checksum="eb91a50c727a0b15f77b67e1d43db010"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-11T03:26:01.577000Z"
+   committed-rev="68"
+   kind="file"
+   committed-date="2013-01-11T06:10:35.834000Z"/>
+<entry
+   name="calendar_top_layout.xml"
+   checksum="d27faf6ecff7192e7049a1519a01c5dd"
+   last-author="huangsanm@gmail.com"
+   committed-rev="6"
+   text-time="2012-06-25T09:55:16.012000Z"
+   kind="file"
+   committed-date="2012-06-25T09:55:16.012454Z"/>
+<entry
+   name="camera.xml"
+   checksum="ec8f3d09979c3b0687b343f5aad164d5"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-26T02:20:47.289000Z"
+   committed-rev="64"
+   kind="file"
+   committed-date="2012-10-26T02:20:47.289839Z"/>
+<entry
+   name="camera_layout.xml"
+   checksum="d96a455631d576e76b910595e9fe4b6c"
+   last-author="huangsanm@gmail.com"
+   committed-rev="57"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2012-10-18T09:36:27.888570Z"/>
+<entry
+   name="contacts_tab_layout.xml"
+   revision="66"
+   checksum="5217c69b996ef67a37e82e4d9d637157"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T06:32:25.753000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="content_layout.xml"
+   checksum="08f73cb66759928a459c894418496593"
+   last-author="huangsanm@gmail.com"
+   committed-rev="43"
+   text-time="2012-08-29T03:19:38.486000Z"
+   kind="file"
+   committed-date="2012-08-29T03:19:38.486223Z"/>
+<entry
+   name="customer_camera_layout.xml"
+   checksum="3eb4c5b869762677fe13749f9ddd5cc1"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-25T01:06:53.516000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2012-10-25T01:06:53.516706Z"/>
+<entry
+   name="datetimepicker_layout.xml"
+   checksum="da61d2edfe9725f96d6fd867c5978add"
+   last-author="huangsanm@gmail.com"
+   committed-rev="5"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2012-06-21T09:59:08.705645Z"/>
+<entry
+   name="do_async.xml"
+   revision="66"
+   checksum="b79065099a3d9e8f8ddeff0180ff0451"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-12T03:34:17.218000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="drag_gridview.xml"
+   checksum="26603a1381bfec73293023fd45d0d2ec"
+   last-author="huangsanm@gmail.com"
+   committed-rev="32"
+   text-time="2012-07-20T07:05:43.275000Z"
+   kind="file"
+   committed-date="2012-07-20T07:05:43.275579Z"/>
+<entry
+   name="drag_listview.xml"
+   checksum="04f35dd27be69e006d9994e325b2a687"
+   last-author="huangsanm@gmail.com"
+   committed-rev="29"
+   text-time="2012-07-13T09:34:52.080000Z"
+   kind="file"
+   committed-date="2012-07-13T09:34:52.080229Z"/>
+<entry
+   name="editimage_layout.xml"
+   checksum="de49a09fd853e5e05edaef002d5e027e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="18"
+   text-time="2012-07-04T09:44:43.342000Z"
+   kind="file"
+   committed-date="2012-07-04T09:44:43.342312Z"/>
+<entry
+   name="flipper_layout.xml"
+   revision="66"
+   checksum="31787d827075c1189aa13dc7f90ceeea"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-19T09:34:43.750000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="fragment_setting_item.xml"
+   revision="67"
+   checksum="15e2f7efe709b01e7a4a5db0fb9efd45"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-08T02:58:32.287000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="fragment_tab_pager.xml"
+   revision="68"
+   checksum="9f8691db15b3a3ae0ea32d4657ae4952"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-11T03:26:58.345000Z"
+   committed-rev="68"
+   kind="file"
+   committed-date="2013-01-11T06:10:35.834000Z"/>
+<entry
+   name="fragment_tabs.xml"
+   revision="67"
+   checksum="dde9dd91665b1b278088d944e7dc17a9"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-09T06:33:16.185000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="gridview_item.xml"
+   revision="69"
+   checksum="73fef7a8a4ca55422189b1d8014f451a"
+   last-author="huangsanm@gmail.com"
+   committed-rev="69"
+   text-time="2013-01-15T08:53:45.041000Z"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="image_layout.xml"
+   checksum="439bf21f9a4e909486e3e9517f1c6cfd"
+   last-author="huangsanm@gmail.com"
+   committed-rev="47"
+   text-time="2012-09-06T07:59:29.404000Z"
+   kind="file"
+   committed-date="2012-09-06T07:59:29.404675Z"/>
+<entry
+   name="intent_layout.xml"
+   revision="69"
+   checksum="af2d3505c1ad062af247e736f310940e"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-14T07:41:10.185000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="label_layout.xml"
+   checksum="9a54234f5ebfa9dcad06c291b12c28fc"
+   last-author="huangsanm@gmail.com"
+   committed-rev="43"
+   text-time="2012-08-29T03:19:38.486000Z"
+   kind="file"
+   committed-date="2012-08-29T03:19:38.486223Z"/>
+<entry
+   name="layout.xml"
+   checksum="6cf04c2bd1dcf66bb4ba9e9f1766e5b5"
+   last-author="huangsanm@gmail.com"
+   committed-rev="22"
+   text-time="2012-07-09T06:54:43.917000Z"
+   kind="file"
+   committed-date="2012-07-09T06:54:43.917257Z"/>
+<entry
+   name="listview_item.xml"
+   checksum="524ae3c21bf17124f5152a06c172cb99"
+   last-author="huangsanm@gmail.com"
+   committed-rev="24"
+   text-time="2012-07-12T09:41:58.010000Z"
+   kind="file"
+   committed-date="2012-07-12T09:41:58.010297Z"/>
+<entry
+   name="main.xml"
+   checksum="154973746d7702d0ea9cad2fb1809763"
+   last-author="huangsanm@gmail.com"
+   committed-rev="6"
+   text-time="2012-06-25T09:55:16.012000Z"
+   kind="file"
+   committed-date="2012-06-25T09:55:16.012454Z"/>
+<entry
+   name="mark_imageview.xml"
+   revision="66"
+   checksum="4980d4745649122a8fc1040d48c9f074"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-21T07:44:43.310000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="message_tab_layout.xml"
+   revision="66"
+   checksum="ccf199618339968c07cc86e178a68c7c"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T06:33:30.390000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="mult_download.xml"
+   revision="66"
+   checksum="14c2ca273484c14fe56f6edba68105c6"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-06T06:24:47.656000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="part_listview.xml"
+   revision="67"
+   checksum="49615cfe329b97898327148696e78259"
+   last-author="huangsanm@gmail.com"
+   committed-rev="67"
+   text-time="2013-01-08T05:44:03.028000Z"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="popup_layout.xml"
+   checksum="68c42dce90bc0e70a1e6067627bd1a0d"
+   last-author="huangsanm@gmail.com"
+   committed-rev="35"
+   text-time="2012-07-25T02:59:17.156000Z"
+   kind="file"
+   committed-date="2012-07-25T02:59:17.156301Z"/>
+<entry
+   name="sensor_layout.xml"
+   revision="66"
+   checksum="356b74f3516ac2eeea603cc470f679f4"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-31T06:08:39.600000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="share.xml"
+   checksum="38f804ed7342b2cd7ef51e0d03e10545"
+   last-author="huangsanm@gmail.com"
+   committed-rev="6"
+   text-time="2012-06-25T09:55:16.012000Z"
+   kind="file"
+   committed-date="2012-06-25T09:55:16.012454Z"/>
+<entry
+   name="share_item.xml"
+   checksum="68a7d6a703a313a1b0dfb34c69f8f1a5"
+   last-author="huangsanm@gmail.com"
+   committed-rev="6"
+   text-time="2012-06-25T09:55:16.012000Z"
+   kind="file"
+   committed-date="2012-06-25T09:55:16.012454Z"/>
+<entry
+   name="support_viewpage.xml"
+   checksum="aaee6e406411d5246b0259a8ac180f16"
+   last-author="huangsanm@gmail.com"
+   committed-rev="56"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2012-10-09T06:33:18.871167Z"/>
+<entry
+   name="tab1_layout.xml"
+   checksum="ffbd191dc716836cbf92e29929cf3724"
+   last-author="huangsanm@gmail.com"
+   committed-rev="19"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2012-07-05T09:20:07.864764Z"/>
+<entry
+   name="tab2_layout.xml"
+   checksum="5e758ef7f744ef1ed6473e8e5a971b29"
+   last-author="huangsanm@gmail.com"
+   committed-rev="19"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2012-07-05T09:20:07.864764Z"/>
+<entry
+   name="tab3_layout.xml"
+   checksum="f94dd9f75a30872ae34b9340975cca4b"
+   last-author="huangsanm@gmail.com"
+   committed-rev="19"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2012-07-05T09:20:07.864764Z"/>
+<entry
+   name="tab_group.xml"
+   checksum="36d207a2aa328975d1aeef059ddbe9f0"
+   last-author="huangsanm@gmail.com"
+   committed-rev="20"
+   text-time="2012-07-06T03:02:39.250000Z"
+   kind="file"
+   committed-date="2012-07-06T03:02:39.250267Z"/>
+<entry
+   name="text_animation.xml"
+   revision="67"
+   checksum="a2e6e8bbb046bc1aa5eb1a5c0ca52147"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-09T06:44:46.095000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="textview.xml"
+   checksum="8fbda378993cda710d9e87b2af9f1094"
+   last-author="huangsanm@gmail.com"
+   committed-rev="54"
+   text-time="2012-09-21T06:27:17.997000Z"
+   kind="file"
+   committed-date="2012-09-21T06:27:17.997354Z"/>
+<entry
+   name="traffic_item.xml"
+   revision="67"
+   checksum="6434ebca009278165826d032eb6731a6"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-06T03:27:53.915000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="traffic_layout.xml"
+   revision="67"
+   checksum="db01acfa5ebad8ef8d560100eb8e5c33"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-06T03:18:10.997000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="xml_layout.xml"
+   checksum="42ef28099d97c2c6084076c9c9236da7"
+   last-author="huangsanm@gmail.com"
+   committed-rev="22"
+   text-time="2012-07-09T06:54:43.917000Z"
+   kind="file"
+   committed-date="2012-07-09T06:54:43.917257Z"/>
+</wc-entries>

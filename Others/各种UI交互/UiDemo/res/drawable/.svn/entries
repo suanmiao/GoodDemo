@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/res/drawable"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2012-10-18T09:36:27.888570Z"/>
+<entry
+   name="back_g.9.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="beijing_004_mb5ucom.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="camera_flash.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="camera_replace.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="camera_setting.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="camera_taken.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="camera_video.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ic_contact_picture.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ic_launcher_biz.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ktjt1.jpg"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ktjt2.jpg"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ktjt3.jpg"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ktjt4.jpg"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ktjt5.jpg"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="minus.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="minus_month.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="minus_month_bg.xml"
+   checksum="1e9b56c447116c6439a1477bef97378b"
+   last-author="huangsanm@gmail.com"
+   committed-rev="5"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2012-06-21T09:59:08.705645Z"/>
+<entry
+   name="minus_month_press.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="minus_year.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="minus_year_bg.xml"
+   checksum="77df6a60fda9775c8ebb361626dc90d9"
+   last-author="huangsanm@gmail.com"
+   committed-rev="5"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2012-06-21T09:59:08.705645Z"/>
+<entry
+   name="minus_year_press.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="part.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="plus.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="plus_month.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="plus_month_bg.xml"
+   checksum="5931c586ccdd14bcce917791378f457e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="5"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2012-06-21T09:59:08.705645Z"/>
+<entry
+   name="plus_month_press.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="plus_year.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="plus_year_bg.xml"
+   checksum="2c775a5529ec371d50d3fd7981bb8519"
+   last-author="huangsanm@gmail.com"
+   committed-rev="5"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2012-06-21T09:59:08.705645Z"/>
+<entry
+   name="plus_year_press.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="selector_progress.xml"
+   revision="67"
+   checksum="1f7496e5b3a37660c6aa9b155df4142b"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-29T12:05:43.738000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="selector_tab_bg.xml"
+   revision="66"
+   checksum="798a6a93959151872bb2b22c1f031b7a"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T03:23:09.783000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="selector_tab_contacts.xml"
+   revision="66"
+   checksum="9f86357eb6c9f84ad277f46ae273b1cd"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T03:28:41.902000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="selector_tab_home.xml"
+   revision="66"
+   checksum="2817b4ada7edf60de7a7f53270c09f68"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T03:25:04.209000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="selector_tab_icon.xml"
+   revision="66"
+   checksum="e3de5f6e12c2645b8d66fbd2d85a845f"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T06:24:13.598000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="selector_tab_message.xml"
+   revision="66"
+   checksum="bc3684ce689888edad3102067bc05df9"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T03:27:12.347000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="tab_home.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="tab_item_bg.9.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="tab_item_pressed.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="tab_item_selector.xml"
+   checksum="181480752b9dc8d1d32d4268cb1c2eea"
+   last-author="huangsanm@gmail.com"
+   committed-rev="19"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2012-07-05T09:20:07.864764Z"/>
+<entry
+   name="top.png"
+   revision="66"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="transition.xml"
+   revision="66"
+   checksum="9022a5846a9265a313a4ef601bdcf911"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-08T08:08:18.088000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+</wc-entries>

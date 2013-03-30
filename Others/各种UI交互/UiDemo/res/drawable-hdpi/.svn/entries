@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/res/drawable-hdpi"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2012-06-20T08:49:10.944046Z"/>
+<entry
+   name="action_settings.png"
+   revision="67"
+   checksum="dfdef8f1a17c4eaa884b6b9d9dcb3bdd"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-08T01:12:59.290000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"
+   prop-time="2013-01-09T07:27:35.024000Z"/>
+<entry
+   name="app_title_bar.9.png"
+   revision="66"
+   checksum="6a42548d85c7a0ea01c16e94a28a5ff8"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T06:37:38.892000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.595000Z"/>
+<entry
+   name="app_title_bar_line.png"
+   revision="67"
+   checksum="0fac535510a5646b3802181e4693be38"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-08T01:48:10.783000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"
+   prop-time="2013-01-09T07:27:35.082000Z"/>
+<entry
+   name="back_g.9.png"
+   revision="66"
+   checksum="7f637c33c449899f6ccd2986b8f1b69a"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.134000Z"/>
+<entry
+   name="beijing_004_mb5ucom.png"
+   revision="66"
+   checksum="fe1641ef39521ee14f52b0cbe2df12c2"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-09-21T06:19:10.023000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.168000Z"/>
+<entry
+   name="camera_flash.png"
+   revision="66"
+   checksum="5a2f8eabcbd8703f4d1be362dd84e893"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.179000Z"/>
+<entry
+   name="camera_replace.png"
+   revision="66"
+   checksum="818f3f75cd7d1facf52da8011270cdc5"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.177000Z"/>
+<entry
+   name="camera_setting.png"
+   revision="66"
+   checksum="a11198d6a94aa4317b94e60f45c2f4c7"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.184000Z"/>
+<entry
+   name="camera_taken.png"
+   revision="66"
+   checksum="24b854fd5980099f40695c90a6ef8279"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.050000Z"/>
+<entry
+   name="camera_video.png"
+   revision="66"
+   checksum="c84e4cdaa8a5ce54ce008de892b07c2a"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.143000Z"/>
+<entry
+   name="ic_contact_picture.png"
+   revision="66"
+   checksum="e8aa5038c1aadaf7fe5b6fcf3dc11d65"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-07-20T07:05:43.275000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.954000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="e99d5b979b433e182115f7d9e8f2ca7c"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-06-20T08:49:10.944000Z"
+   committed-rev="3"
+   kind="file"
+   committed-date="2012-06-20T08:49:10.944046Z"
+   prop-time="2012-10-18T14:34:12.550000Z"/>
+<entry
+   name="ic_launcher_biz.png"
+   revision="66"
+   checksum="3c34d062abceec702881e4250619f5d3"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-07-20T07:05:43.275000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.198000Z"/>
+<entry
+   name="icon_home_nor.png"
+   revision="66"
+   checksum="b7b25021628b34582e95db47524c0a5c"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T01:39:08.451000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.572000Z"/>
+<entry
+   name="icon_home_sel.png"
+   revision="66"
+   checksum="67ac9e066b5ffdf06133fec811b72700"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T01:39:08.450000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.480000Z"/>
+<entry
+   name="icon_message_nor.png"
+   revision="66"
+   checksum="167aa11c74b91ddbba6954a88c7eccc9"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T01:37:37.900000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.488000Z"/>
+<entry
+   name="icon_message_sel.png"
+   revision="66"
+   checksum="9a63caa12e5f0a3c6e02f83e794d672a"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T01:37:37.901000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.514000Z"/>
+<entry
+   name="icon_selfinfo_nor.png"
+   revision="66"
+   checksum="c1ab472eb46bebcf31db496feaeda14e"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T01:37:37.903000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.501000Z"/>
+<entry
+   name="icon_selfinfo_sel.png"
+   revision="66"
+   checksum="32989d8e1592c3bd03f4f2c4e1ecdd9f"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T01:37:37.876000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.371000Z"/>
+<entry
+   name="ktjt1.jpg"
+   revision="66"
+   checksum="c1c2b165ad0889735f240f23ae809d9f"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.454000Z"/>
+<entry
+   name="ktjt2.jpg"
+   revision="66"
+   checksum="aa88ddcb363e25fa5d7b45868349624b"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.606000Z"/>
+<entry
+   name="ktjt3.jpg"
+   revision="66"
+   checksum="5c63eee9a58c7778c5d15b01f7fcc27e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.751000Z"/>
+<entry
+   name="ktjt4.jpg"
+   revision="66"
+   checksum="4b38381db3abe53dff7419e915af05b8"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.876000Z"/>
+<entry
+   name="ktjt5.jpg"
+   revision="66"
+   checksum="e773385af99ac9aa108c5fb06cb483c4"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.888000Z"/>
+<entry
+   name="maintab_toolbar_bg.png"
+   revision="66"
+   checksum="3bc380d334b8aa834b793a7b5623d07e"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T02:07:00.515000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.349000Z"/>
+<entry
+   name="mark.png"
+   revision="66"
+   checksum="ab15490bb6ce4727272200f8a412c8a5"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-21T02:26:08.850000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.299000Z"/>
+<entry
+   name="minus.png"
+   revision="66"
+   checksum="f1e83e2969883f8f103e6be018cff9da"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-20T08:49:10.944000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.614000Z"/>
+<entry
+   name="minus_month.png"
+   revision="66"
+   checksum="a3f021a7ea52f177bcd0079e2e73ec40"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.946000Z"/>
+<entry
+   name="minus_month_press.png"
+   revision="66"
+   checksum="b64569c51b7d412a2fd2d408ab6d19d3"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.063000Z"/>
+<entry
+   name="minus_year.png"
+   revision="66"
+   checksum="cb108579b7c0143742b8f2101742895e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.056000Z"/>
+<entry
+   name="minus_year_press.png"
+   revision="66"
+   checksum="0402d69cd985dc2a8af5daa81499ca27"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.194000Z"/>
+<entry
+   name="monitor_button.png"
+   revision="66"
+   checksum="416f26abbe60ff31c19becf0e202f6ad"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-07T09:37:04.729000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.434000Z"/>
+<entry
+   name="monitor_button_bg.png"
+   revision="66"
+   checksum="aa2e2d4ce85e4c4d60bf2ee667d2cbd0"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-07T09:42:48.507000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.174000Z"/>
+<entry
+   name="part.png"
+   revision="66"
+   checksum="d06e6b22637734cd75ff79c7b90505c1"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-07-12T09:41:58.010000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.019000Z"/>
+<entry
+   name="plus.png"
+   revision="66"
+   checksum="cd4bde90a83943a84026a4085969a491"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-20T08:49:10.944000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.203000Z"/>
+<entry
+   name="plus_month.png"
+   revision="66"
+   checksum="ed7d1814df9918a18dacfe762adc367e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.303000Z"/>
+<entry
+   name="plus_month_press.png"
+   revision="66"
+   checksum="ca8109047103c6062c7337defbd0c851"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.012000Z"/>
+<entry
+   name="plus_year.png"
+   revision="66"
+   checksum="32a3b327c5fb674b6ec649531911a8cf"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.004000Z"/>
+<entry
+   name="plus_year_press.png"
+   revision="66"
+   checksum="37695e99ca752ad6af4e5fbb1a943389"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.151000Z"/>
+<entry
+   name="sensor.png"
+   revision="66"
+   checksum="22adeb4850f1e5fa887535b885832d3e"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-31T06:02:03.234000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.739000Z"/>
+<entry
+   name="setting_item.png"
+   revision="67"
+   checksum="89330fdc4290b1c9e9ab0f135f0a242b"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-08T02:57:20.463000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"
+   prop-time="2013-01-09T07:27:35.060000Z"/>
+<entry
+   name="sina.png"
+   revision="66"
+   checksum="e99d5b979b433e182115f7d9e8f2ca7c"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-06-20T08:49:10.944000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.412000Z"/>
+<entry
+   name="tab_home.png"
+   revision="66"
+   checksum="12764f6ade859cd211c6208c7098ebba"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.190000Z"/>
+<entry
+   name="tab_icon_sel.png"
+   revision="66"
+   checksum="e6f167aa68f4d1a443bc08144b080eb2"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-07T07:18:22.497000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2013-01-05T08:12:01.199000Z"/>
+<entry
+   name="tab_item_bg.9.png"
+   revision="66"
+   checksum="c80759b5e0931462f16b6cae67753154"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.998000Z"/>
+<entry
+   name="tab_item_pressed.png"
+   revision="66"
+   checksum="db38ae2234981708146b8d09452fbdb6"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-07-05T09:20:07.864000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:12.042000Z"/>
+<entry
+   name="top.png"
+   revision="66"
+   checksum="5e27222209cde1370624fa8481366089"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-06-21T09:59:08.705000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"
+   prop-time="2012-10-18T14:34:11.962000Z"/>
+</wc-entries>

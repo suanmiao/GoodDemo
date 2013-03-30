@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.irun.sm.ui.demo.ui"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="8"/>
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    
+    
+    <uses-feature android:name="android.hardware.camera" />
+	<uses-feature android:name="android.hardware.camera.autofocus" />
+    
+    <application android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="UiDemoActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="ShareDemoActivity" android:label="@string/share">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="DateTimePickerActivity" android:label="@string/datetimepicker">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="EditImageActivity" android:label="@string/edit_image">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="TabActivity" android:label="@string/tab_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="Tab1Activity"></activity>
+        <activity android:name="Tab2Activity"></activity>
+        <activity android:name="Tab3Activity"></activity>
+        
+        
+        <!-- 添加广告 -->
+         <activity android:name="AdViewActivity" android:label="@string/adview_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+       <!-- <meta-data android:name="AdView_CHANNEL" android:value="GOOGLEMARKET"/>  -->
+        
+        <activity android:name="CodeActivity"></activity>
+    	<activity android:name="LayoutActivity"></activity>
+    	
+    	<activity android:name="XMLAdViewActivity"></activity>
+    	<meta-data android:value="SDK201207150706098ng5d8fpuvjg0gi"
+    	    android:name="ADVIEW_SDK_KEY"/>
+    	<activity 
+    	    android:name="com.vpon.adon.android.WebInApp" 
+    	    android:screenOrientation="portrait"
+    	    android:configChanges="orientation|keyboardHidden|navigation|keyboard"></activity>
+    	
+    	<activity android:name=".CameraActivity" android:label="@string/camera_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+    	<activity android:name=".CustomerCamera" android:label="@string/customer_camera_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+    	
+    	<activity android:name=".DragListViewActivity" android:label="@string/dragListView_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+    	
+    	<activity android:name=".DragGridViewActivity" android:label="@string/dragGridView_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+    	
+    	<activity android:name=".BannerEssentials" android:label="@string/googleadmo_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.google.ads.AdActivity" 
+              android:configChanges="keyboard|keyboardHidden|orientation"/>
+        
+        <activity android:name=".PopupActivity" android:label="@string/popupwindow_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".PartActivity" android:label="@string/part_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".ImageActivity" android:label="@string/image_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".AlphaDemo" android:label="@string/alpha_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".AppList" android:label="@string/applist_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".CustomTextActivity" android:label="@string/customer_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".SupportViewPage" android:label="@string/support_viewpage_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".CameraVideoActivity" android:label="@string/camera_video">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".HistogramActivity" android:label="@string/histogram_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".ScrollHistogramActivity" android:label="@string/scroll_histogram_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".SensorActivity" android:label="@string/sensor_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".FlipperActivity" android:label="@string/flipper_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".MultThreadDownloader" android:label="@string/mult_download">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".SlideButtonActivity" android:label="@string/slide_button">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".TransitionActivity" android:label="@string/transition_button">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".DoAsyncActivity" android:label="@string/doasync_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".MarkViewActivity" android:label="@string/mark_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".TextViewAnimation" android:label="@string/text_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".WeiChatActivity" android:label="@string/weichat_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".fragment.FragmentTabActivity" android:label="@string/fragment_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        
+        <activity android:name=".fragment.FragmentPageTabActivity" android:label="@string/page_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".FlowActivity" android:label="@string/flow_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".intent.ContactRecordActivity" android:label="@string/contact_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity>
+        
+        <!-- <activity android:name=".USBActivity" android:label="@string/usb_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.UIDOME"/>
+            </intent-filter>
+        </activity> -->
+    </application>
+    
+
+</manifest>

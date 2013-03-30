@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, UiDemoActivity!</string>
+    <string name="app_name">UiDemo</string>
+    <string name="share">Share</string>
+    <string name="datetimepicker">DatetimePicker</string>
+    <string name="edit_image">EditImage</string>
+    <string name="tab_activity">TabActivity</string>
+    <string name="adview_activity">AdView</string>
+    <string name="camera_activity">Camera</string>
+    <string name="customer_camera_activity">Customer Camera</string>
+    <string name="dragListView_activity">Drag ListView</string>
+    <string name="dragGridView_activity">Drag GridView</string>
+    <string name="googleadmo_activity">Google Admo</string>
+    <string name="popupwindow_activity">Popup Window</string>
+    <string name="part_activity">Part ListView</string>
+    <string name="image_activity">Image Of Internet</string>
+    <string name="alpha_activity">Alpha</string>
+    <string name="applist_activity">Applist</string>
+    <string name="customer_activity">Customer TextView</string>
+    <string name="support_viewpage_activity">Support ViewPager</string>
+    <string name="camera_video">Camera Video</string>
+    <string name="histogram_activity">Histogram</string>
+    <string name="scroll_histogram_activity">Scroll Histogram</string>
+    <string name="sensor_activity">Sensor</string>
+    <string name="flipper_activity">Flipper</string>
+    <string name="mult_download">Multi Download</string>
+    <string name="slide_button">Slide Button</string>
+    <string name="transition_button">Transition Animation</string>
+    <string name="doasync_activity">DoAsync Activity</string>
+    <string name="mark_activity">Mark View</string>
+    <string name="text_activity">Text Animation</string>
+    <string name="weichat_activity">Share WeiChat</string>
+    <string name="fragment_activity">Tab Fragment</string>
+    <string name="page_activity">Tab Page Fragment</string>
+    <string name="flow_activity">Flow Info</string>
+    <string name="contact_activity">Contact Record</string>
+    
+    
+    <string name="text1">Go最初是为了解决Google的问题而开发的</string>
+    <string name="text2">要知道Google面临着很多大问题</string>
+    <string name="text3">Google的中服务器最主要是C++编写的</string>
+    <string name="text4">除此之外还有 很多Java、Python代码</string>
+    
+    <string name="title_resource">提示</string>
+    <string name="message_resource">请稍等,正在获取数据...</string>
+</resources>

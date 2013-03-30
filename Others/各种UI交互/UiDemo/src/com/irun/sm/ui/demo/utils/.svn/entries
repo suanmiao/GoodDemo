@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://huangsm.googlecode.com/svn"
+   revision="65"
+   last-author="huangsanm@gmail.com"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/utils"
+   committed-rev="64"
+   kind="dir"
+   committed-date="2012-10-26T02:20:47.289839Z"/>
+<entry
+   name="ActivityUtils.java"
+   revision="66"
+   checksum="47634e71a4e0104953b5de76c8bd889e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T05:39:48.244000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="AsyncCallable.java"
+   revision="66"
+   checksum="624cf02ffc4aa60c1570f64d87d50389"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T03:06:25.308000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="BaseActivity.java"
+   revision="66"
+   checksum="40b5209338dc56c522c6ce996891e562"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T06:17:52.164000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="Callback.java"
+   revision="66"
+   checksum="9c5e84007121574caed05935060ebaf4"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T03:06:50.424000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="CameraManager.java"
+   checksum="75ec3714621b90e549c623ddb82389b3"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-18T09:36:27.888000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2012-10-18T09:36:27.888570Z"/>
+<entry
+   name="CameraVideo.java"
+   checksum="233a5d112cb4bc95706cde53f6f74cc2"
+   last-author="huangsanm@gmail.com"
+   committed-rev="64"
+   text-time="2012-10-26T02:20:47.289000Z"
+   kind="file"
+   committed-date="2012-10-26T02:20:47.289839Z"/>
+<entry
+   name="Globals.java"
+   revision="69"
+   checksum="ecf964b0bc72065f646c41bbd36875cd"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-15T06:59:13.119000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="HttpUtils.java"
+   revision="66"
+   checksum="a8f7c21abacbc88e552764e2d835ea44"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-05T06:14:13.455000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="IProgressListener.java"
+   revision="66"
+   checksum="a8cc66b98bc04fb2300198b7499389a5"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T02:59:02.295000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="ImageTask.java"
+   revision="69"
+   checksum="35f7ec8005707cc2b940c836c74da43d"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-16T01:46:48.249000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="JSONUtils.java"
+   revision="66"
+   checksum="8c1680aaec14415d6b1f8e5a4e186a9e"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-30T02:54:52.173000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="ProgressCallable.java"
+   revision="66"
+   checksum="be4b5ce278ad562c7195f5a032747a41"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T02:49:28.438000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="TrafficStatsAgo.java"
+   revision="68"
+   checksum="cb9fb303b07f0324c21ba12c298f32ef"
+   last-author="huangsanm@gmail.com"
+   committed-rev="68"
+   text-time="2013-01-09T09:03:06.885000Z"
+   kind="file"
+   committed-date="2013-01-11T06:10:35.834000Z"/>
+<entry
+   name="XMLContentHandler.java"
+   checksum="ca283b7e59146e608c8288659af6ccdf"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-06-28T09:58:15.590000Z"
+   committed-rev="12"
+   kind="file"
+   committed-date="2012-06-28T09:58:15.590331Z"/>
+</wc-entries>

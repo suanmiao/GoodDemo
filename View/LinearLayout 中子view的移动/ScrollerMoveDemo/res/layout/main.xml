@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView 
+        android:id="@+id/output"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    
+    <demo.scrollermove.CustomLinearLayout
+        android:id="@+id/custom_linearlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#556b2f" >
+        
+        <TextView 
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:background="#8b0000"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+        
+    </demo.scrollermove.CustomLinearLayout>
+    
+    
+</LinearLayout>

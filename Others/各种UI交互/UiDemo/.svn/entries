@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://huangsm.googlecode.com/svn"
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2012-10-18T09:36:27.888570Z"/>
+<entry
+   name=".classpath"
+   checksum="f881240d7ac7aaef1f38d647b8c74ea4"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-09T06:33:18.871000Z"
+   committed-rev="56"
+   kind="file"
+   committed-date="2012-10-09T06:33:18.871167Z"/>
+<entry
+   name=".project"
+   checksum="17806ea7b3a4853f409212feb60eb245"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-06-20T08:49:10.944000Z"
+   committed-rev="3"
+   kind="file"
+   committed-date="2012-06-20T08:49:10.944046Z"/>
+<entry
+   name="AndroidManifest.xml"
+   revision="68"
+   checksum="17d5f1ad91f8b7ece6974dc2ad86cc23"
+   last-author="huangsanm@gmail.com"
+   committed-rev="68"
+   text-time="2013-01-11T03:32:39.451000Z"
+   kind="file"
+   committed-date="2013-01-11T06:10:35.834000Z"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   name="proguard-project.txt"
+   checksum="18bfe77c342b4698f1cef19cf8d918e2"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-06-20T08:49:10.944000Z"
+   committed-rev="3"
+   kind="file"
+   committed-date="2012-06-20T08:49:10.944046Z"/>
+<entry
+   name="project.properties"
+   checksum="72ad95a418944f3d93b221243f1eef36"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-06-20T08:49:10.944000Z"
+   committed-rev="3"
+   kind="file"
+   committed-date="2012-06-20T08:49:10.944046Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="resouce"
+   kind="dir"
+   deleted="true"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

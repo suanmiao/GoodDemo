@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/res/anim"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="52"
+   kind="dir"
+   committed-date="2012-09-12T01:20:04.983254Z"/>
+<entry
+   name="push_in.xml"
+   checksum="9d45c761a3e0df3cae662ad98007af9b"
+   last-author="huangsanm@gmail.com"
+   committed-rev="52"
+   text-time="2012-09-12T01:20:04.983000Z"
+   kind="file"
+   committed-date="2012-09-12T01:20:04.983254Z"/>
+<entry
+   name="push_out.xml"
+   checksum="88f3be90153485ac177dd7e50c671a55"
+   last-author="huangsanm@gmail.com"
+   committed-rev="52"
+   text-time="2012-09-12T01:20:04.983000Z"
+   kind="file"
+   committed-date="2012-09-12T01:20:04.983254Z"/>
+<entry
+   name="text_anim.xml"
+   revision="66"
+   checksum="8be529f31d2d4432a928b5d9349ce9d5"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-12-17T09:50:38.914000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+</wc-entries>

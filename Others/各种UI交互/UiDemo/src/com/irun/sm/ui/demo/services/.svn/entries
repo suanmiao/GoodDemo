@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/services"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="45"
+   kind="dir"
+   committed-date="2012-08-30T08:31:05.130333Z"/>
+<entry
+   name="ContentItem.java"
+   checksum="0210204f30bdbda1380217c21ad0311c"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="DownloadProgressListener.java"
+   revision="66"
+   checksum="3f3b089b004a83527976515b57d0f9f6"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-05T09:25:32.263000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="DownloadThread.java"
+   revision="66"
+   checksum="3eb537a943b26a53be4352eba56e855e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-06T02:23:26.852000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="FileDownload.java"
+   revision="67"
+   checksum="07638e14ccd1ead5ebfaf76d51fcbd1d"
+   last-author="huangsanm@gmail.com"
+   committed-rev="67"
+   text-time="2013-01-07T01:37:21.135000Z"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="FileService.java"
+   revision="66"
+   checksum="b3a582ce7dd34c91f3c4396d725695ee"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-06T01:30:00.094000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="LabelItem.java"
+   checksum="f02a60ec640bd042414b49b69c989333"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="ListItems.java"
+   checksum="4a5340cf1a74193a2765d6da4dc83e21"
+   last-author="huangsanm@gmail.com"
+   committed-rev="45"
+   text-time="2012-08-30T08:31:05.130000Z"
+   kind="file"
+   committed-date="2012-08-30T08:31:05.130333Z"/>
+</wc-entries>
