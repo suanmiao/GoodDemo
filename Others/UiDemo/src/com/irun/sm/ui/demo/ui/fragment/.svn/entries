@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://huangsm.googlecode.com/svn"
+   revision="66"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/ui/fragment"
+   committed-rev="66"
+   kind="dir"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="AppsFragment.java"
+   revision="68"
+   checksum="25297586519c26f8f8d7e4a349ea2944"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-11T01:23:25.790000Z"
+   committed-rev="68"
+   kind="file"
+   committed-date="2013-01-11T06:10:35.834000Z"/>
+<entry
+   name="ContactsFragment.java"
+   revision="67"
+   checksum="e02819757b1f7d703b46db23b88b0d70"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T09:05:46.322000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="FragmentPageTabActivity.java"
+   revision="68"
+   checksum="2a5fa6fa3cc5fb6f5fbb3ffa990087ab"
+   last-author="huangsanm@gmail.com"
+   committed-rev="68"
+   text-time="2013-01-11T03:23:39.410000Z"
+   kind="file"
+   committed-date="2013-01-11T06:10:35.834000Z"/>
+<entry
+   name="FragmentTabActivity.java"
+   revision="69"
+   checksum="1a08d692833bf4c4872c066bcc166c4c"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-14T07:13:12.779000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="MessageFragment.java"
+   revision="67"
+   checksum="01b1f3e6a6f0aeaffa48c2f1f45ab1ec"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T09:06:01.088000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="SettingsFragment.java"
+   revision="67"
+   checksum="658b2f1b716effffade88cf2db31f5b2"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-08T03:41:57.535000Z"
+   committed-rev="67"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+</wc-entries>

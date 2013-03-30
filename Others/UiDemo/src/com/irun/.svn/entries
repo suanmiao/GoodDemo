@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2012-10-18T09:36:27.888570Z"/>
+<entry
+   name="sm"
+   kind="dir"/>
+</wc-entries>

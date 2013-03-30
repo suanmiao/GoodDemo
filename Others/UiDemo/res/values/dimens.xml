@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">224dp</dimen>
+    <dimen name="height">224dp</dimen>
+    <dimen name="header_height">45dp</dimen>
+    <dimen name="cell_width">32dp</dimen>
+    <dimen name="cell_height">32dp</dimen>
+    
+    <dimen name="normal_height">72dp</dimen>
+    <dimen name="expanded_height">72dp</dimen>
+    
+    
+    <!-- 直方图 -->
+    <!-- 背景线 -->
+    <dimen name="bg_line_interval">25dp</dimen>
+    <!-- 日期之间的间距 -->
+    <dimen name="date_interval">25dp</dimen>
+</resources>

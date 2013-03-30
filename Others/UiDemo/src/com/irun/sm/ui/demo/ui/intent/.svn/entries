@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://huangsm.googlecode.com/svn"
+   revision="69"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/ui/intent"
+   committed-rev="69"
+   kind="dir"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="ContactRecordActivity.java"
+   checksum="43d715c4734663d666be07de322e6e5c"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-16T01:19:26.900000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+</wc-entries>

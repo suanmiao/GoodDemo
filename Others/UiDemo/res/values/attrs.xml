@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextView">
+        <attr name="orientation" format="string" />
+    </declare-styleable>
+    
+    <!-- AutoHorizontalScrollView -->
+    <declare-styleable name="AutoHorizontalScrollView">
+        
+        <attr name="inAnimation" format="reference"></attr>
+        <attr name="outAnimation" format="reference"></attr>
+        
+        <attr name="Interval" format="integer"></attr>
+        <attr name="autoStart" format="boolean"></attr>
+        
+    </declare-styleable>
+    
+    <declare-styleable name="MarkView">
+        <attr name="text" format="string"></attr>
+    </declare-styleable>
+</resources>

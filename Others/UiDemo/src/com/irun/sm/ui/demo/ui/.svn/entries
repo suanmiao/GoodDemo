@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="65"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/ui"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="65"
+   kind="dir"
+   committed-date="2012-10-26T06:43:25.980842Z"/>
+<entry
+   name="AdViewActivity.java"
+   checksum="584b55eeeb185b0105996e3f27c8d10f"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="AlphaDemo.java"
+   checksum="5e783271ae4e8a25deba8a066be731bb"
+   last-author="huangsanm@gmail.com"
+   committed-rev="53"
+   text-time="2012-09-21T06:19:10.023000Z"
+   kind="file"
+   committed-date="2012-09-21T06:19:10.023216Z"/>
+<entry
+   name="AppList.java"
+   revision="66"
+   checksum="6971f7e9fcc36ccb43ac9cacb768c621"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-13T07:27:27.350000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="BannerEssentials.java"
+   checksum="db9b8e66e5e79923a19cec2d8db5008c"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="CameraActivity.java"
+   checksum="85d757126cd4e02e8bf84dfd636d7124"
+   last-author="huangsanm@gmail.com"
+   committed-rev="64"
+   text-time="2012-10-26T02:20:47.289000Z"
+   kind="file"
+   committed-date="2012-10-26T02:20:47.289839Z"/>
+<entry
+   name="CameraVideoActivity.java"
+   revision="66"
+   checksum="c0f18ad0efb830713a451ba9c2d34b97"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-30T01:12:03.838000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="CodeActivity.java"
+   checksum="87547fc258edc5ff4339ba6e11ebe584"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="CustomTextActivity.java"
+   checksum="6cd07a2403fb32eba941c0e917382f04"
+   last-author="huangsanm@gmail.com"
+   committed-rev="53"
+   text-time="2012-09-21T06:19:10.023000Z"
+   kind="file"
+   committed-date="2012-09-21T06:19:10.023216Z"/>
+<entry
+   name="CustomerCamera.java"
+   checksum="02e5c89a2977a6ba1f3f2700417fb95c"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-25T01:06:53.516000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2012-10-25T01:06:53.516706Z"/>
+<entry
+   name="DateTimePickerActivity.java"
+   checksum="62c083a1579cc75697c6d615b00215b9"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="DoAsyncActivity.java"
+   revision="66"
+   checksum="0173523b221d43d8440c0bc1e62127c1"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-12T06:22:48.993000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="DragGridViewActivity.java"
+   checksum="7254061a7a89da35fc0392b16da2e382"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="DragListViewActivity.java"
+   checksum="9fc35223c6489e2ad6cacbc0aca5a5c7"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="EditImageActivity.java"
+   checksum="00c63ceb1e8ae0e22f2b5733e0e256d1"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="FlipperActivity.java"
+   revision="66"
+   checksum="3b66902282feb82b216bcc7e38b2f3bb"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-02T06:01:52.232000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="FlowActivity.java"
+   revision="67"
+   checksum="704f3d889e04723e59b48aa8dfef0472"
+   last-author="huangsanm@gmail.com"
+   committed-rev="67"
+   text-time="2013-01-07T01:19:43.086000Z"
+   kind="file"
+   committed-date="2013-01-09T07:27:44.323000Z"/>
+<entry
+   name="HistogramActivity.java"
+   revision="66"
+   checksum="f7dbc7a10352d8d4dbf90d2a1664547d"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-12-24T01:33:40.156000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="ImageActivity.java"
+   revision="69"
+   checksum="4f10e4af9f57a3dcd13f757afb9df228"
+   last-author="huangsanm@gmail.com"
+   committed-rev="69"
+   text-time="2013-01-15T09:01:16.832000Z"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="LayoutActivity.java"
+   checksum="be24777a724c9dfbc1515dc591eab6bb"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="MarkViewActivity.java"
+   revision="66"
+   checksum="34f741c0e5ed51b142c5167d99780cc8"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-21T07:50:01.934000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="MultThreadDownloader.java"
+   revision="66"
+   checksum="c61129462c05f731397e4b8f2ef30f49"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-06T09:40:16.950000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="PartActivity.java"
+   checksum="b79dde5905ca9f4b38121fe431062a71"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="PopupActivity.java"
+   checksum="34e9232ecc65010da3124520d0e10575"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="ScrollHistogramActivity.java"
+   revision="66"
+   checksum="8dcca9b7e796646fee7f9bcfed1f0905"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-12-26T05:44:54.247000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="SensorActivity.java"
+   revision="66"
+   checksum="9f0721cb38f0843d3a10ed9217a9fde2"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-10-31T06:27:54.849000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="ShareDemoActivity.java"
+   checksum="8872d7664c1cd4fef60dfe4923ecb570"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="SlideButtonActivity.java"
+   revision="66"
+   checksum="d824e7de041bca12d278bc443c3176fb"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-07T09:45:09.320000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="SocketActivity.java"
+   checksum="0598940f74d4ed45893e5cfaf9aea7a3"
+   last-author="huangsanm@gmail.com"
+   committed-rev="47"
+   text-time="2012-09-06T07:59:29.404000Z"
+   kind="file"
+   committed-date="2012-09-06T07:59:29.404675Z"/>
+<entry
+   name="SupportViewPage.java"
+   checksum="063a13594513d732a9bd4ea21beac9e5"
+   last-author="huangsanm@gmail.com"
+   committed-rev="56"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2012-10-09T06:33:18.871167Z"/>
+<entry
+   name="Tab1Activity.java"
+   checksum="290abdc56230d1b382136bbae5e1b0cf"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="Tab2Activity.java"
+   checksum="f036a1fff204874a033dbda2881e4742"
+   last-author="huangsanm@gmail.com"
+   committed-rev="57"
+   text-time="2012-10-18T09:36:27.888000Z"
+   kind="file"
+   committed-date="2012-10-18T09:36:27.888570Z"/>
+<entry
+   name="Tab3Activity.java"
+   checksum="a626b28ee1776b37c4e39ee4759031df"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="TabActivity.java"
+   checksum="9f9987bf6a965ce582a2d13f71dbd0ef"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="TextViewAnimation.java"
+   revision="66"
+   checksum="14ca0f9105a48a40c15986ac51c04307"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-12-17T09:50:14.977000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="TransitionActivity.java"
+   revision="66"
+   checksum="fd64531fe0a92fb13112b7af508ce314"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-08T08:13:14.386000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="UiDemoActivity.java"
+   revision="69"
+   checksum="78ebcbe7c90668cfb806665ce6f3871a"
+   last-author="huangsanm@gmail.com"
+   committed-rev="69"
+   text-time="2013-01-16T01:44:34.893000Z"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="WeiChatActivity.java"
+   revision="66"
+   checksum="ba94d0c336a4be4ff99a2444b56fdd8c"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-12-20T08:45:27.018000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="XMLActivity.java"
+   checksum="2d27f7eafeb8a7185110dbbe02483f55"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="XMLAdViewActivity.java"
+   checksum="beac10c52d4d90c103217d3da8107987"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="fragment"
+   kind="dir"/>
+<entry
+   name="intent"
+   kind="dir"/>
+</wc-entries>

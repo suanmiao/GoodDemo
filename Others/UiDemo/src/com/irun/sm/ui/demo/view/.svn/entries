@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="65"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/view"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="61"
+   kind="dir"
+   committed-date="2012-10-25T01:06:53.516706Z"/>
+<entry
+   name="AppPanel.java"
+   checksum="9718b28f5c0b7648d7d5eabba54e1c70"
+   last-author="huangsanm@gmail.com"
+   committed-rev="54"
+   text-time="2012-09-21T06:27:17.997000Z"
+   kind="file"
+   committed-date="2012-09-21T06:27:17.997354Z"/>
+<entry
+   name="AutoHorizontalScrollView.java"
+   revision="66"
+   checksum="2ba34872e51235b4c820e58c9bb785df"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-21T02:16:34.258000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="BubbleTextView.java"
+   checksum="dd56d87c19a7fa6dec169c0dbb16967e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="55"
+   text-time="2012-09-21T07:59:33.690000Z"
+   kind="file"
+   committed-date="2012-09-21T07:59:33.690920Z"/>
+<entry
+   name="CameraSurface.java"
+   checksum="96912d3f7c79e52c71623802c89a2436"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-25T01:06:53.516000Z"
+   committed-rev="61"
+   kind="file"
+   committed-date="2012-10-25T01:06:53.516706Z"/>
+<entry
+   name="CameraView.java"
+   checksum="15eff9cfd54aaadd15b3c1c0343b7558"
+   last-author="huangsanm@gmail.com"
+   committed-rev="53"
+   text-time="2012-09-21T06:19:10.023000Z"
+   kind="file"
+   committed-date="2012-09-21T06:19:10.023216Z"/>
+<entry
+   name="DateTimePickerView.java"
+   checksum="fe5be0bd951f0da53402bb0251166ee2"
+   last-author="huangsanm@gmail.com"
+   committed-rev="6"
+   text-time="2012-06-25T09:55:16.012000Z"
+   kind="file"
+   committed-date="2012-06-25T09:55:16.012454Z"/>
+<entry
+   name="DownloadImageView.java"
+   revision="69"
+   checksum="884fdd4a533b8c35512ce48c1b91ab2d"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-16T01:53:15.675000Z"
+   committed-rev="69"
+   kind="file"
+   committed-date="2013-01-16T02:27:16.882000Z"/>
+<entry
+   name="DragGridView.java"
+   checksum="eb9f8621e94171105a112921c6402148"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="DragListView.java"
+   checksum="f719e6795c8829ea9177b3aa10b7a7a6"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+<entry
+   name="HistogramView.java"
+   revision="66"
+   checksum="cd3ab09d882484032320cffef8854c2c"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-31T05:37:49.221000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="MarkImageView.java"
+   revision="66"
+   checksum="b4b57500fc4254cc641f7d471e19fd30"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-21T07:50:34.655000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="ScrollHistogramView.java"
+   revision="66"
+   checksum="1fd73ecb57f85b3ae1df4b20290df7fc"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-12-26T07:27:01.029000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="ScrollPanel.java"
+   checksum="155b83c97db924e7d95a76b424ce8c0e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="56"
+   text-time="2012-10-09T06:33:18.871000Z"
+   kind="file"
+   committed-date="2012-10-09T06:33:18.871167Z"/>
+<entry
+   name="ShareAdapter.java"
+   revision="66"
+   checksum="fa2ef99b0a5700f97b0c72ce334b580e"
+   last-author="huangsanm@gmail.com"
+   committed-rev="66"
+   text-time="2012-11-01T03:03:50.568000Z"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="SlideButton.java"
+   revision="66"
+   checksum="1fa24e28fec035f8bb0ac5d1796206d2"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-08T08:02:14.614000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="TouchInterceptor.java"
+   checksum="1d6abca333e6b95ac05887cf1e451b36"
+   last-author="huangsanm@gmail.com"
+   committed-rev="44"
+   text-time="2012-08-30T02:38:38.502000Z"
+   kind="file"
+   committed-date="2012-08-30T02:38:38.502839Z"/>
+</wc-entries>

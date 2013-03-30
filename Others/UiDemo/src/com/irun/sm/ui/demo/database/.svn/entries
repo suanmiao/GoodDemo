@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://huangsm.googlecode.com/svn"
+   name=""
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/database"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   committed-rev="51"
+   kind="dir"
+   committed-date="2012-09-10T07:16:03.870682Z"/>
+<entry
+   name="DBHelper.java"
+   checksum="f5bf790b23f375f8c0e6ddee389e2980"
+   last-author="huangsanm@gmail.com"
+   committed-rev="51"
+   text-time="2012-09-10T07:16:03.870000Z"
+   kind="file"
+   committed-date="2012-09-10T07:16:03.870682Z"/>
+<entry
+   name="DBOpenHelper.java"
+   revision="66"
+   checksum="49551b690811f1b97baca60c193ee88a"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-06T09:41:50.868000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+</wc-entries>

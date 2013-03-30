@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://huangsm.googlecode.com/svn"
+   revision="57"
+   last-author="huangsanm@gmail.com"
+   uuid="e5561467-8573-4a0b-e261-b5b6068474ce"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/src/com/irun/sm/ui/demo/vo"
+   committed-rev="43"
+   kind="dir"
+   committed-date="2012-08-29T03:19:38.486223Z"/>
+<entry
+   name="HistogramItem.java"
+   revision="66"
+   checksum="1b8c95c7e81825ced84b3e0ff4eb0c73"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-10-30T07:44:03.530000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="Item.java"
+   checksum="58d5d4b079fbbecd8ba901acb52e0cfd"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-08-29T03:19:38.486000Z"
+   committed-rev="43"
+   kind="file"
+   committed-date="2012-08-29T03:19:38.486223Z"/>
+<entry
+   name="TextItem.java"
+   revision="66"
+   checksum="ae3fdd449782c4c66136902a0fcb5a5e"
+   last-author="huangsanm@gmail.com"
+   text-time="2012-11-02T01:22:55.221000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+</wc-entries>
